@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sithembiso_sk_filmpire/static/css/main.073c9b0a.css",
+    "main.js": "/sithembiso_sk_filmpire/static/js/main.517b09d5.js",
+    "static/js/787.c0543ec1.chunk.js": "/sithembiso_sk_filmpire/static/js/787.c0543ec1.chunk.js",
+    "index.html": "/sithembiso_sk_filmpire/index.html",
+    "main.073c9b0a.css.map": "/sithembiso_sk_filmpire/static/css/main.073c9b0a.css.map",
+    "main.517b09d5.js.map": "/sithembiso_sk_filmpire/static/js/main.517b09d5.js.map",
+    "787.c0543ec1.chunk.js.map": "/sithembiso_sk_filmpire/static/js/787.c0543ec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.517b09d5.js"
+  ]
+}
